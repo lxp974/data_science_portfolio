@@ -3,7 +3,7 @@ This portfolio showcases a collection of data science projects that demonstrate 
 
 ## Classification Problems
 ### Healthcare_project
-**Problem**: Can we predict patient test results?
+**Problem**: Can we predict patient test results based on healthcare records?
 Analysed electronic health records to provide healthcare insights and developed machine learning models (Random Forest and XGBoost) to predict patient test results in this multiclassification problem. 
 
 
